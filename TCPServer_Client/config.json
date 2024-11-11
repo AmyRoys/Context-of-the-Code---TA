@@ -1,0 +1,5 @@
+{
+    "server_host": "localhost",
+    "server_port": 65432,
+    "log_file": "app.log"
+}
